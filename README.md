@@ -5,4 +5,6 @@ The Go Proverbs, formatted for printing on a single page, with line numbers for 
 
 <kbd><a href="/Go%20Proverbs.pdf"><img src="/Go%20Proverbs%20(72dpi).png" /></a></kbd>
 
+(spiritual successor / compliment to [The Zen of Python poster](https://github.com/ewjoachim/zen-of-python))
+
 [View Source](https://docs.google.com/document/d/1fjxvwwldiW8zpuHuWgVHY9McJlYIIngh4JhM3I4C4ak/edit?usp=sharing) | [Download PDF](https://github.com/BeyondCodeBootcamp/go-proverbs/raw/main/Go%20Proverbs.pdf)
