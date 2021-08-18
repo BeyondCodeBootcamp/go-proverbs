@@ -3,7 +3,7 @@
 The Go Proverbs, formatted for printing on a single page, with line numbers for reference in code reviews. \
 (ex: "great example of G16" or "lines 25-28 violate G5 and G15")
 
-<kbd><a href="/Go%20Proverbs.pdf"><img src="/Go%20Proverbs%20(72dpi).png" /></a></kbd>
+<kbd><a href="/Go%20Proverbs.pdf"><img src="/Go%20Proverbs%20(300dpi).png" /></a></kbd>
 
 (spiritual successor / compliment to [The Zen of Python poster](https://github.com/ewjoachim/zen-of-python))
 
