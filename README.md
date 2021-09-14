@@ -8,3 +8,7 @@ The Go Proverbs, formatted for printing on a single page, with line numbers for 
 (spiritual successor / compliment to [The Zen of Python poster](https://github.com/ewjoachim/zen-of-python))
 
 [View Source](https://docs.google.com/document/d/1fjxvwwldiW8zpuHuWgVHY9McJlYIIngh4JhM3I4C4ak/edit?usp=sharing) | [Download PDF](https://github.com/BeyondCodeBootcamp/go-proverbs/raw/main/Go%20Proverbs.pdf) | Watch [Rob Pike](https://twitter.com/rob_pike)'s [Go Proverbs Talk](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+
+## More Creeds of Craftsmanship
+
+See <https://github.com/BeyondCodeBootcamp/beyondcodebootcamp/issues/18>.
